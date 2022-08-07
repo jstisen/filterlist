@@ -1,0 +1,11 @@
+twitter.com
+ycombinator.com
+reddit.com
+
+wikipedia.org###frb
+wikipedia.org##.frb
+
+*##.consent-banner
+*##.js-consent-banner
+*##.singleton-element.cookie-choices-info
+*###banner
