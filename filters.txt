@@ -1,6 +1,9 @@
 twitter.com
+nitter.net
+sethforprivacy.com
 ycombinator.com
 reddit.com
+teddit.net
 
 wikipedia.org###frb
 wikipedia.org##.frb
