@@ -4,6 +4,7 @@ sethforprivacy.com
 ycombinator.com
 reddit.com
 teddit.net
+facebook.com
 
 wikipedia.org###frb
 wikipedia.org##.frb
